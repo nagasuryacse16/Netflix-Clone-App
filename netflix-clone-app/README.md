@@ -1,3 +1,32 @@
+*********Netflix Clone Web App using React JS******************
+
+# First of all, getting the TMDB API key by signing in https://www.themoviedb.org/.
+
+# Creating the new react app in VS Code.
+
+# Creating the new project in Firebase for Hosting the app.
+
+# Getting all the movies via async function to call api request using axios.
+
+# Fetching the data using react hooks.
+
+# Creating the rows using CSS FlexBox.
+
+# Building the Banner component.
+
+# Building the NavBar component.
+
+# Building the Trailer popup component.
+         --> run "npm i react-youtube"
+         -->also install, "npm i movie trailer"
+         
+# Hosting the Netflix-clone App by running mutilple commands.
+         --> firebase login
+         --> firebase init
+         --> firebase deploy
+ then, run "npm run build".
+
+*********************************************************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
